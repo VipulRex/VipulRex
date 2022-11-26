@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VipulRex
 - 👀 I’m interested in Data Modeling , Problem Solving , Storytelling using data 
-- 🌱 I’m currently learning Data Science And Machine Learnig 
+- 🌱 I’m currently learning Data Science And Machine Learning 
 - 💞️ I’m looking to collaborate on any Data Models Assignment and Data Cleaning Freelance Assignment 
 - 📫 Reach me at 29vipul.thosar@gmail.com 
 
